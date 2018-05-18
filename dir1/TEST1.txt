@@ -1,1 +1,2 @@
 I want to remove this file
+UPPER CASE
