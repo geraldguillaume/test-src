@@ -1,2 +1,3 @@
 # test-src
-we are lowercase
+* we are lowercase
+* UPPER CASE
